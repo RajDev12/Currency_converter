@@ -57,6 +57,8 @@ The Currency Converter application is a React-based web application designed to 
 To run this project locally:
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/RajDev12/Currency_converter.git
+2.npm i
+3.Configure Tailwind Css
+4. npm run dev
 
